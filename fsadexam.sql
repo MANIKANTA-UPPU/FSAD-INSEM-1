@@ -1,0 +1,3 @@
+CREATE DATABASE fsadexam;
+USE fsadexam;
+SELECT DATABASE();
